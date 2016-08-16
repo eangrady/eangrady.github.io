@@ -44,9 +44,9 @@ var rules = {
     "none of your business, asshole",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "I don't give a damn",
+    "fuck off",
+    "great...",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
